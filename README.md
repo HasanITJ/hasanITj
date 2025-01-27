@@ -68,9 +68,8 @@
 
 </div>
 
-###
-
 <h3 align="left">🛠 OS:</h3>
+<div align="left">
 
  <img width="12" />
  
@@ -79,4 +78,5 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=windows" height="40"  />
+  <div/>
 ###
