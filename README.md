@@ -65,8 +65,18 @@
 
   <img src="https://skillicons.dev/icons?i=php" height="40"  />
 
-   <img width="12" />
 
 </div>
 
+###
+
+<h3 align="left">🛠 OS:</h3>
+
+ <img width="12" />
+ 
+  <img src="https://skillicons.dev/icons?i=linux" height="40"   />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=windows" height="40"  />
 ###
