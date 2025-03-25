@@ -79,4 +79,9 @@
 
   <img src="https://skillicons.dev/icons?i=windows" height="40"  />
   <div/>
+
+
+
 ###
+    
+![LeetCode Stats](https://leetcard.jacoblin.cool/sharipovhasan584?theme=dark&font=Inria%20Sans&ext=heatmap)
